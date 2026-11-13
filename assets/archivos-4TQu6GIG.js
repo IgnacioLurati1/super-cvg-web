@@ -1,0 +1,1 @@
+import{q as e}from"./datos-CnPi-Vje.js";import{o as t}from"./sesion-DU_mUoau.js";async function n(n){return e(t(),n.direccion)}function r(e,t){let n=URL.createObjectURL(e),r=document.createElement(`a`);r.href=n,r.download=t,r.click(),URL.revokeObjectURL(n)}export{n,r as t};

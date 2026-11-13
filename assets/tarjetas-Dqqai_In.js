@@ -1,0 +1,1 @@
+var e=[`simbolo`,`tenida`,`franja`,`portada`,`sello`,`minima`],t={simbolo:`Con símbolo`,tenida:`Teñida`,franja:`Franja`,portada:`Portada`,sello:`Sello`,minima:`Mínima`},n=t=>e.includes(t),r=[`fijada`,`archivada`];export{n as i,r as n,t as r,e as t};

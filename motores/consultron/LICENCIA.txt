@@ -1,0 +1,4 @@
+Consultron usa Qwen3.5-4B (Alibaba, licencia Apache-2.0, https://huggingface.co/Qwen/Qwen3.5-4B)
+con web-llm 0.2.87 (MLC, licencia Apache-2.0, https://github.com/mlc-ai/web-llm).
+El programa del modelo lo compila MLC en https://github.com/mlc-ai/binary-mlc-llm-libs, versión 146ed9c.
+Los pesos, cuantizados por MLC, están en https://huggingface.co/mlc-ai/Qwen3.5-4B-q4f16_1-MLC, versión 44b4246.

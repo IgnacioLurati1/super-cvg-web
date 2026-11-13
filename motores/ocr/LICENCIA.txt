@@ -1,0 +1,4 @@
+El lector de fotos de Consultron usa tesseract.js 7.0.0 (licencia Apache-2.0, https://github.com/naptha/tesseract.js)
+y tesseract.js-core 7.0.0, Tesseract compilado a WebAssembly (licencia Apache-2.0, https://github.com/naptha/tesseract.js-core).
+Los datos de castellano e inglés son los de tessdata_best en enteros (licencia Apache-2.0, https://github.com/tesseract-ocr/tessdata_best),
+tomados de @tesseract.js-data/spa y @tesseract.js-data/eng 1.0.0 (4.0.0_best_int).
