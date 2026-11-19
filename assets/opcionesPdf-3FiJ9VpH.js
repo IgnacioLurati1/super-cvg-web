@@ -1,0 +1,1 @@
+var e=e=>new URL(`/pdfjs/${e}/`,globalThis.location?.href??`http://localhost/`).href;function t(t,n){return{data:n,isEvalSupported:!1,verbosity:t.VerbosityLevel.ERRORS,wasmUrl:e(`wasm`),cMapUrl:e(`cmaps`),cMapPacked:!0,standardFontDataUrl:e(`standard_fonts`),iccUrl:e(`iccs`)}}export{t};

@@ -1,0 +1,1 @@
+import{r as e}from"./rolldown-runtime-BCiCTKAo.js";var t=e({default:()=>n}),n=`/assets/pdf.worker.min-CIqJB0yW.mjs`;export{t as n,n as t};

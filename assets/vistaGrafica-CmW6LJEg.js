@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{t}from"./react-BWPDF9mI.js";var n=(0,e(t(),1).createContext)(null),r=e=>typeof e==`number`&&Number.isFinite(e),i=e=>e&&typeof e==`object`&&r(e.giro)&&r(e.alza)&&r(e.dist)?{giro:e.giro,alza:e.alza,dist:e.dist}:null;export{i as n,n as t};
