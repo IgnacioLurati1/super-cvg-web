@@ -1,0 +1,1 @@
+import{s as e}from"./lib-tiptap-core-HYT6FLW2.js";var t=e.create({name:`text`,group:`inline`,parseMarkdown:e=>({type:`text`,text:e.text||``}),renderMarkdown:e=>e.text||``});export{t};

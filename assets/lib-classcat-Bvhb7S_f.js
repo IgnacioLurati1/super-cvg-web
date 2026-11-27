@@ -1,0 +1,1 @@
+function e(t){if(typeof t==`string`||typeof t==`number`)return``+t;let n=``;if(Array.isArray(t))for(let r=0,i;r<t.length;r++)(i=e(t[r]))!==``&&(n+=(n&&` `)+i);else for(let e in t)t[e]&&(n+=(n&&` `)+e);return n}export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/atkinson-hyperlegible-mono-latin-400-normal-CmMGer93.woff2`,t=`/assets/atkinson-hyperlegible-mono-latin-700-normal-BhOtGXDr.woff2`;export{e as n,t};

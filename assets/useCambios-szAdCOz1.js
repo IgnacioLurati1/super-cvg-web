@@ -1,0 +1,1 @@
+import{o as e}from"./rolldown-runtime-BCiCTKAo.js";import{n as t}from"./lib-react-BjLx7v8f.js";var n=e(t(),1);function r(e){let[,t]=(0,n.useState)(0);(0,n.useEffect)(()=>{let n=()=>t(e=>e+1);return e.observeDeep(n),()=>e.unobserveDeep(n)},[e])}export{r as t};

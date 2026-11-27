@@ -1,0 +1,1 @@
+var e=`/assets/fira-code-latin-400-normal-DGosTW8U.woff2`,t=`/assets/fira-code-latin-700-normal-aa0XcSUK.woff2`;export{e as n,t};
